@@ -16,7 +16,7 @@
 
 * 方式二:
   确保模拟器安装以及已经运行
-  命令行执行`npm run android`
+  命令行执行`react-native run Android`
 
 ## 下载安装expo，用于调试
 
